@@ -63,7 +63,7 @@ Certifique-se de ter instalado:
 
 1. **Clone o repositório**  
    ```
-   git clone https://github.com/seu-usuario/seu-repositorio.git
+   git clone https://github.com/yohanngusso/Dio_desafio-uml-iphone.git
    cd seu-repositorio
 2. **Compile os arquivos Java**
    No terminal, dentro da pasta do projeto, execute:
